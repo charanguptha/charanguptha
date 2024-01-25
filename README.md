@@ -64,5 +64,8 @@ I am a Devsecops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+ EKS version upgrade with zero
+
+  "https://medium.com/@saicharanarra01/eks-version-upgrade-with-zero-downtime-9307e4d14c31"
 <!-- BLOG-POST-LIST:END -->
 
