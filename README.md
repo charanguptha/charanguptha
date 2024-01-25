@@ -6,10 +6,10 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/arra-sai-charan-devops">
+  <a href="https://www.linkedin.com/in/arra-sai-charan-devops/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@saicharanarra01/eks-version-upgrade-with-zero-downtime-9307e4d14c31"">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white&style=for-the-badge" 
 alt="Medium Badge"/>
   </a>
@@ -34,7 +34,7 @@ I am a Devsecops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks ,and go through some majar issues in stackoverflow and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-charan-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/arra-sai-charan-devops
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-charan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arra-sai-charan-devops/)
 
 
 <div>
@@ -65,7 +65,5 @@ I am a Devsecops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
  EKS version upgrade with zero
-
-  "https://medium.com/@saicharanarra01/eks-version-upgrade-with-zero-downtime-9307e4d14c31"
 <!-- BLOG-POST-LIST:END -->
 
