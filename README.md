@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey there :wave:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Charan+Guptha)](https://git.io/typing-svg)
+###### Glad to see you here :heart:
 
 
 <div id="header" align="center">
@@ -6,6 +9,13 @@
 </div>
 
 <div id="badges">
+<a href="https://gitlab.com/charanguptha">
+  <kbd>
+  <img align="centre" alt="Rajendra's Gitlab" width="22px" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" />
+</a>
+<a href="mailto:charancloud4943@gmail.com">
+  <kbd>
+  <img align="centre" alt="charan's gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
   <a href="https://www.linkedin.com/in/arra-sai-charan-devops/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -23,14 +33,18 @@ alt="Medium Badge"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <a href="https://gitlab.com/charanguptha">
+  <kbd>
 </div>
 About Me :
-I am a Devsecops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+I am a Devsecops Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> working in CSG INTERNATIONAL.
 
 - :telescope: I’m working as a Devsecops Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 - :seedling: Focus on writing blogs 
+- :mens: Pronouns: He/Him
 
 - :zap: In my free time, I solve problems on GeeksforGeeks ,and go through some majar issues in stackoverflow and read tech articles.
 
